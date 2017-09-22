@@ -185,9 +185,9 @@ Partial Class Form1
         Me.GroupBox1.Controls.Add(Me.Button2)
         Me.GroupBox1.Controls.Add(Me.Button1)
         Me.GroupBox1.Dock = System.Windows.Forms.DockStyle.Bottom
-        Me.GroupBox1.Location = New System.Drawing.Point(0, 66)
+        Me.GroupBox1.Location = New System.Drawing.Point(0, 67)
         Me.GroupBox1.Name = "GroupBox1"
-        Me.GroupBox1.Size = New System.Drawing.Size(747, 43)
+        Me.GroupBox1.Size = New System.Drawing.Size(747, 42)
         Me.GroupBox1.TabIndex = 0
         Me.GroupBox1.TabStop = False
         '
@@ -196,7 +196,7 @@ Partial Class Form1
         Me.Button1.Dock = System.Windows.Forms.DockStyle.Left
         Me.Button1.Location = New System.Drawing.Point(3, 16)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(100, 24)
+        Me.Button1.Size = New System.Drawing.Size(100, 23)
         Me.Button1.TabIndex = 0
         Me.Button1.Text = "Button1"
         Me.Button1.UseVisualStyleBackColor = True
@@ -206,7 +206,7 @@ Partial Class Form1
         Me.Button2.Dock = System.Windows.Forms.DockStyle.Right
         Me.Button2.Location = New System.Drawing.Point(644, 16)
         Me.Button2.Name = "Button2"
-        Me.Button2.Size = New System.Drawing.Size(100, 24)
+        Me.Button2.Size = New System.Drawing.Size(100, 23)
         Me.Button2.TabIndex = 1
         Me.Button2.Text = "Button2"
         Me.Button2.UseVisualStyleBackColor = True
@@ -215,7 +215,7 @@ Partial Class Form1
         '
         Me.ComboBox1.Dock = System.Windows.Forms.DockStyle.Bottom
         Me.ComboBox1.FormattingEnabled = True
-        Me.ComboBox1.Location = New System.Drawing.Point(103, 19)
+        Me.ComboBox1.Location = New System.Drawing.Point(103, 18)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(541, 21)
         Me.ComboBox1.TabIndex = 2
